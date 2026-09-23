@@ -28,9 +28,11 @@ Telco Customer Churn dataset (Kaggle, BlastChar) — 7,043 customers, 21 feature
 Logistic Regression performed best, suggesting the churn signal in this dataset is largely linear.
 
 ## Key Insights
-- [Write your real top insight from Phase 5/12, e.g. contract type]
-- Customers who churn tend to have much lower tenure than those who stay.
-- [Add 1-2 more from your own EDA/coefficient findings]
+## Key Insights
+- Customers on month-to-month contracts churn far more than those on one or two-year contracts, since they face no penalty for leaving at any time.
+- Customers who churn tend to have much lower tenure than those who stay, meaning the first several months are the highest-risk period for losing a customer.
+- Customers with fiber optic internet churn more than those with DSL, likely due to higher monthly costs and more competition in that market segment.
+- Customers paying by electronic check churn more than those on automatic payment methods (credit card or bank transfer), possibly reflecting less commitment to staying with the service.
 
 ## Business Recommendations
 - Focus retention offers on customers in their first 12 months.
