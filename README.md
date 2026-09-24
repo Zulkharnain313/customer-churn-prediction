@@ -26,6 +26,23 @@ Telco Customer Churn dataset (Kaggle, BlastChar) — 7,043 customers, 21 feature
 | XGBoost | 0.809 |
 
 Logistic Regression performed best, suggesting the churn signal in this dataset is largely linear.
+## Screenshots
+
+**App Interface**
+![App interface](images/app-interface.png)
+
+**Prediction Result**
+![Prediction result](images/prediction-result.png)
+
+**Churn by Contract Type**
+![Churn by contract type](images/Churn-by-contract-type.png)
+
+**model comparison table**
+![model comparison table](images/model-comparison-table.png)
+
+**Evaluation of models**
+![Evaluation of models](images/Evaluation-of-models.png)
+
 
 ## Key Insights
 ## Key Insights
