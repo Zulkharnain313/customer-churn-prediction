@@ -43,6 +43,9 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, imbalanced-learn (SMOTE), Matplotl
 
 ## Run It Yourself
 \`\`\`
+```bash
+git clone https://github.com/Zulkharnain313/customer-churn-prediction.git
+cd customer-churn-prediction
 pip install -r requirements.txt
 streamlit run app.py
 \`\`\`
