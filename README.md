@@ -58,6 +58,11 @@ Logistic Regression performed best, suggesting the churn signal in this dataset 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, XGBoost, imbalanced-learn (SMOTE), Matplotlib, Seaborn, Streamlit, Joblib
 
+## Future improvements
+-Try Random Forest / XGBoost with hyperparameter tuning
+-Handle class imbalance (SMOTE or class weights)
+-Deploy the app on Streamlit Community Cloud
+
 ## Run It Yourself
 \`\`\`
 ```bash
@@ -70,7 +75,7 @@ streamlit run app.py
 ## Live Demo
 [[link once deployed — see below](https://customer-churn-prediction-apptkyhp69k8x8q8ernwlt.streamlit.app/)]
 
-#Future improvements
+## Future improvements
 -Try Random Forest / XGBoost with hyperparameter tuning
 -Handle class imbalance (SMOTE or class weights)
 -Deploy the app on Streamlit Community Cloud
